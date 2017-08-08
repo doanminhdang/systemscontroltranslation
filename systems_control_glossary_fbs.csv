@@ -1,0 +1,775 @@
+en	vi	description
+acausal modeling		, 3-7
+access control		, see admission; control
+acknowledgment (ack) packet		, 4-13–4-15
+activator		, 1-12, 3-39, 5-36
+active filter		, see also operational amplifier, 6-24
+actuators		, 1-5, 3-5, 3-30, 4-1, 4-17, 7-12, 8-25, 9-37, 10-17, 11-22, 12-15, 12-27–12-29, 12-32; effect on zeros, 10-17, 12-29; in computing systems, 4-11; saturation, 3-9, 8-27, 11-9, 11-15–11-17, 11-23, 12-15
+A/D converters		, see analog-to-digital; converters
+Adapt		, 14-24
+adaptation		, 11-5, 14-15
+adaptive control		, 13-28, 14-31
+additive uncertainty		, 13-3, 13-7, 13-10, 13-31
+adjacency matrix		, 3-36
+admission control		, 3-33, 3-43, 4-14, 4-15, 10-8
+aerospace systems		, see also vectored thrust aircraft; X-29 aircraft, 1-7–1-8, 1-14, 12-33
+AFM		, see atomic force; microscope
+air-fuel ratio control		, 1-22
+aircraft		, see flight control
+alcohol		, metabolism of, 4-30
+algebraic loops		, 3-10–3-11, 8-11
+aliasing		, 8-27
+all-pass transfer function		, 12-25
+alternating current (AC)		, 6-25
+amplifier		, see operational amplifier
+amplitude ratio		, see gain
+analog computing		, 3-10, 3-11, 4-7, 11-21
+analog implementation		, controllers, 4-10, 9-35, 11-21–11-22
+analog-to-digital converters		, 1-5, 4-18, 8-25, 8-26, 11-22
+angle		, 2-4
+anti-windup compensation		, 1-19
+anticipation		, in controllers, see also derivative action, 1-19, 11-5
+antiresonance		, 6-26
+anti-windup compensation		, 11-15–11-17, 11-22, 11-24, 11-26
+Apache web server		, see also web server control, 4-12
+apparent volume of; distribution		, 4-22, 4-30
+Arbib		, M. A., 7-1
+architecture		, 14-1, 14-34
+argument		, of a complex; number, 9-24
+arrival rate (queuing systems)		, 3-33
+assume-guarantee		, 14-11
+asymptotes		, in Bode plot, 9-26, 9-27
+asymptotic stability		, 3-22, 5-8, 5-10, 5-12, 5-13, 5-18, 5-20, 5-23–5-25, 5-27, 6-10; discrete-time systems, 6-35
+atmospheric dynamics		, see environmental science
+atomic force microscopes		, 1-3, 3-30, 4-17–4-20; contact mode, 4-17, 6-26, 7-35; horizontal positioning, 10-15, 13-20; system identification, 9-31; tapping mode, 4-17, 10-24, 11-7, 11-13, 12-18; with preloading, 4-29
+attractor (equilibrium point)		, 5-10
+automatic reset		, in PID; control, 11-4
+automatic tuning		, 11-15, 13-28
+automation		, 3-5
+automotive control systems		, see also cruise control; vehicle steering, 1-17, 3-30, 4-5
+autonomous differential; equation		, see also time-invariant systems, 3-3
+autonomous vehicles		, 14-30–14-33
+autonomy		, 14-24
+autopilot		, 1-15, 1-16
+AUTOSAR		, 14-34
+balance systems		, see also cart-pendulum system; inverted pendulum, 3-13–3-14, 3-29, 7-4, 7-23, 9-14, 12-29
+band-pass filter		, 6-24, 6-25, 9-29
+bandwidth		, 2-14, 6-25, 7-20, 12-12, 12-27
+behavioral modeling		, 3-7
+Bell Labs		, 1-14, 10-23
+Bennett		, S., 1-27, 10-24, 11-24
+bicycle dynamics		, 4-5–4-7, 4-27, 5-29, 8-27; Whipple model, 4-7
+bicycle model		, 3-31
+bicycle model		, for vehicle; steering, 3-30–3-32
+bifurcations		, see also root; locus plots, 5-28–5-30, 5-36
+biological circuits		, 1-12, 3-24, 3-38–3-39, 5-36, 6-36, 9-29; genetic switch, 3-43, 5-21; repressilator, 3-39
+biological systems		, see also biological circuits; drug; administration; neural; systems; population; dynamics, 1-1–1-3, 1-8, 1-12, 1-27, 3-38–3-40, 5-33, 11-1, 11-5
+bistability		, 1-3, 5-23
+Black		, 1-7
+Black		, H. S., 1-14, 4-7, 4-9, 6-1, 10-1, 10-24, 13-1
+block diagonal form		, 5-12, 5-36, 6-19
+block diagonal systems		, 5-12, 5-36, 6-9, 6-15, 6-19, 8-12
+block diagram; finding transfer functions by inspection		, 2-7
+block diagram algebra		, 9-18, 9-21, 13-10
+block diagrams		, 1-1, 3-10, 3-25–3-26, 9-8, 9-18–9-23; control system, 1-5, 9-1, 9-20, 12-1; Kalman decomposition, 8-16; observable canonical form, 8-5; observer, 8-2, 8-10; observer-based control system, 8-14; PID controllers, 11-1, 11-4, 11-22; reachable canonical form, 7-7; two degree-of-freedom; controller, 8-22, 12-2, 13-12; Youla parameterization, 13-11
+Bode		, 1-7
+Bode		, H., 9-1, 10-23, 10-24, 12-38, 13-28
+Bode plots		, 9-24–9-30, 10-16; asymptotic approximation, 9-26, 9-27, 9-36; low-, band-, high-pass filters, 9-29; nonminimum phase systems, 10-17; of rational function, 9-24; sketching, 9-27
+Bode’s ideal loop transfer function		, 13-10, 13-29
+Bode’s integral formula		, 12-29–12-31, 12-33–12-34
+Bode’s relations		, 10-16, 12-17
+Brahe		, T., 3-2
+breakpoint		, 9-26, 10-6
+Bristol’s RGA		, 14-22
+Brockett		, R. W., xii, 6-33
+Bryson		, A. E., 7-35
+bump test		, 11-11
+bumpless transfer		, 13-28
+bumptest		, 11-12
+Bush		, V., 11-24
+business systems		, 1-4
+calibration		, versus feedback, 1-8, 7-14, 7-30, 7-32
+Cannon		, R. H., 3-40, 6-1
+capacitor		, transfer function for, 9-7
+car		, see automotive control; systems; cruise control; vehicle steering
+carrying capacity		, in population models, 4-26
+cart-pendulum system		, see also balance systems, 2-28, 2-29, 3-13, 7-6
+cascade control		, 14-15–14-16, 14-21; applications, 14-16; windup, 14-16
+causal reasoning		, 1-1, 4-6
+Cayley-Hamilton theorem		, 7-4, 7-34, 8-3
+center (equilibrium point)		, 5-10
+centrifugal governor		, 1-2, 1-3, 1-13
+certainty equivalence principle		, 14-25
+chain of integrators (normal form)		, 3-41, 7-7
+characteristic equation		, 2-2, 2-5
+characteristic polynomial		, 2-1, 5-11, 7-34, 9-14; for closed loop transfer function, 10-2; observable canonical form, 8-5; output feedback controller, 8-12, 8-13; reachable canonical form, 7-7, 7-9, 7-13, 7-33
+chemical systems		, see also process control;
+compartment models		, 1-8, 11-1
+chordal distance		, 13-5
+circuits		, see biological circuits; electrical circuits
+class E 		, 9-5
+classical control		, xi, 13-28
+closed loop		, 1-1, 1-2, 1-5, 6-32, 7-10, 7-17, 10-1, 10-2, 10-20, 12-1; versus open loop, 1-2, 10-3, 10-21, 12-1
+closed loop behavior		, 10-1
+Command signal following		, 2-12
+command signals		, see also reference signal; setpoint, 1-4, 1-6, 8-22, 11-1
+compartment models		, 4-21–4-25, 5-13, 6-21, 7-20, 8-3, 8-8, 8-28; exercises, 6-34
+compensator		, see control law
+complementary filtering		, 14-18
+complementary sensitivity function		, 12-3, 12-15, 12-31, 13-5, 13-8, 13-11, 13-14, 13-19, 13-23, 13-29
+complexity		, of control systems, 1-8, 1-17, 11-6
+computed torque		, 6-33
+computer implementation		,
+controllers		, 8-25–8-27, 11-22–11-24
+computer science		, relationship to control, 1-6
+computer systems		, control of, see also queuing systems, 1-9–1-10, 1-27, 3-17, 3-35, 3-36, 4-11–4-17, 6-27
+conditional integration		, 11-26
+conditional stability		, 10-9
+congestion control		, see also queuing systems, 1-9, 4-13–4-16, 5-10, 10-7, 10-25, 11-25; router dynamics, 4-29
+consensus		, 3-36
+control; definition of		, 1-4–1-6; early examples, 1-2, 1-6–1-8, 1-14, 1-17, 1-27, 11-4; fundamental limitations, 10-17, 12-25–12-34, 12-38, 13-18, 13-20, 13-27–13-28; history of, 1-27, 11-24; modeling for, 1-6, 3-5–3-6, 3-40, 13-1; successes of, 1-8, 1-26; system, 1-5, 7-9, 8-14, 8-21, 8-25, 9-1, 12-2, 12-4, 13-12; using estimated state, 8-11–8-14, 13-24; 
+control architecture; two degrees of freedom		, 2-14
+control error		, 1-18, 9-20, 11-2
+control law		, 1-5, 1-18, 6-32, 7-10, 7-13, 9-20
+control Lyapunov function		, 5-31
+control matrix		, 3-11, 3-15
+control protcol		, 14-9
+control signal		, 3-6, 6-27, 11-1
+controllability		, see also reachability, 7-32
+controlled differential equation		, 3-3, 3-12
+controller architecture		, 8-21–8-22
+convolution equation		, 6-15–6-17, 6-19, 6-20, 7-4, 9-12; discrete-time, 6-35; 
+coordinate transformations		, 5-12, 6-17–6-19, 7-7, 8-27, 9-12–9-13; to Jordan form, 6-9; to observable canonical form, 8-6; to reachable canonical form, 7-8, 7-9
+Coriolis forces		, 3-13, 6-33
+corner frequency		, 9-26
+correct-by-construction		, 14-13
+correlation matrix		, 8-17, 8-18
+cost function		, 7-25
+coupled spring-mass system		, 6-12, 6-14, 6-18
+covariance matrix		, 8-17
+critical gain		, 11-11, 11-12, 11-14
+critical period		, 11-12, 11-14
+critical point		, 10-2, 10-5, 10-7, 10-13, 10-22, 10-23, 11-11, 13-6, 13-7, 13-26
+critically damped oscillator		, 7-18
+crossover frequency		, see gain crossover frequency; phase crossover frequency
+crossover frequency inequality		, see gain crossover frequency inequality
+cruise control		, 1-13–1-14, 1-21, 4-1–4-5; control design, 7-31, 11-9, 11-20; electric car, 14-22; feedback linearization, 6-32; integrator windup, 11-15, 11-16; linearization, 6-28; pole/zero cancellation, 9-17; robustness, 1-14, 13-1, 13-2, 13-8
+Curtiss seaplane		, 1-15, 1-16
+cybernetics		, see also robotics, 1-8
+cyberphysical system		, 3-8
+D/A converters		, see digital-to-analog converters
+damped frequency		, 7-19
+damping		, 3-2, 3-13, 3-21, 5-2, 9-37, 9-38
+damping ratio		, 2-11, 7-18, 7-19, 7-22, 11-8
+DARPA Grand Challenge		, 14-30, 14-31
+DC gain		, see also zero frequency gain, 6-25
+DCS distributed control system		, 14-35
+dead zone		, 1-18
+decision making		, higher levels of, 14-30
+decoupling; drawbacks		, 11-16
+deep learning		, 14-30
+delay		, see time delay
+delay compensation		, 10-25, 13-30
+delay margin		, 10-15
+delta function		, see impulse; function
+derivative action		, 1-19, 1-20, 11-1, 11-4–11-6, 11-22, 12-21; filtering, 11-5, 11-20, 11-23, 11-24; setpoint weighting, 11-20, 11-24; time constant, 11-2; versus lead compensator, 12-21
+derivative gain		, 11-2
+derivative time constant		, 11-5
+describing functions		, 10-21–10-23
+design of dynamics		, 1-14–1-15, 5-15, 5-30–5-32, 6-1, 7-1, 7-11, 7-17
+diabetes		, see insulin-glucose dynamics
+diagonal systems		, 5-12, 6-8; Kalman decomposition for, 8-14; transforming to, 5-12, 5-36, 6-8
+Dickmanns		, E., 14-30
+difference equations		, 3-11, 3-15–3-17, 3-21, 3-41, 6-27, 8-26, 11-23
+differential algebraic equations		, see also algebraic loops, 3-7
+differential equations		, 3-2, 3-11–3-15, 5-1–5-4; controlled, 3-3, 6-3; equilibrium points, 5-6–5-7; existence and uniqueness of solutions, 5-2–5-4; first-order, 3-6, 11-7; isolated solution, 5-7; periodic solutions, 5-7–5-8, 5-16; qualitative analysis, 5-4–5-8; second-order, 5-5, 7-18, 11-7; solutions, 5-1, 5-2, 6-3, 6-6, 6-15, 9-34; stability, see stability; transfer functions for, 9-10
+differential flatness		, 8-25
+differentially flat		, 8-25, 14-8
+digital control systems		, see computer implementation, controllers
+digital-to-analog converters		, 1-5, 4-18, 8-25, 8-26, 11-22
+dimension-free variables		, 3-28, 3-40
+direct connection		, 3-10
+direct term		, 3-10, 3-11, 3-15, 6-17, 8-11
+discrete control		, 3-35
+discrete transition system		, 14-9
+discrete-time systems		, 3-15, 3-41, 5-35, 6-27, 6-35, 11-22; Kalman filter for, 8-17; linear quadratic regulator; for, 7-27
+disk drives		, 3-44
+distributed control system		
+DCS		, 14-35
+disturbance attenuation		, 1-5, 7-10, 12-13–12-15, 13-12–13-13; design of controllers for, 12-6, 12-17, 12-31, 12-40, 13-24; fundamental limits, 12-30; in biological systems, 9-30, 11-5; integral gain as a measure; of, 11-4, 12-15, 13-13; relationship to sensitivity function, 12-14, 12-29, 12-39, 13-13
+disturbance observer		, 14-19
+disturbance weighting		, 13-27
+disturbances		, 1-5, 3-3, 3-6, 9-17, 9-20, 12-1, 12-4; generalized, 13-25; random, 8-17
+Dodson		, B., 1-1
+dominant eigenvalues (poles)		, 7-22, 11-8, 11-10
+dominant pairs		, 7-34
+double integrator		, 2-5, 6-7, 7-2, 9-10, 10-25
+Doyle		, J. C., xii, 12-38, 13-28
+drawbacks of feedforward		, 2-24
+drug administration		, see also compartment models, 4-21–4-25, 4-30, 6-21, 7-20
+dual control		, 14-27
+duality		, 8-7, 8-11
+Dubins car		, 3-31
+dynamic compensator		, 7-31
+dynamic inversion		, 6-33
+dynamical systems		, 1-1, 3-1, 5-1, 5-4, 5-32; linear, 5-11, 6-1; observer as a, 8-1; state of, 7-9; stochastic, 8-17; uncertainty in, 13-1–13-3; zz, see also differential equations
+dynamics matrix		, 3-11, 3-15, 5-11, 6-12
+Dyson		, F., 3-1
+e-commerce		, 1-10
+e-mail server		, control of, 3-17, 6-27
+economic systems		, 1-4, 1-10–1-11, 3-41
+ecosystems		, see also predator-prey system, 1-12–1-13, 4-25, 7-15
+eigenvalue assignment		, 7-11, 7-13–7-17, 7-23, 8-12, 11-8, 11-24; by output feedback, 8-13; for observer design, 8-8
+eigenvalues		, 5-11, 5-20, 5-29, 6-12, 9-5; and Jordan form, 6-9–6-11, 6-35
+distinct		, 5-35, 5-36, 6-8, 6-14, 8-14; dominant, 7-22; effect on dynamic behavior, 7-17–7-19, 7-21, 7-22, 9-5; for discrete-time systems, 6-35; invariance under coordinate transformation, 5-12; relationship to modes, 6-12–6-15; relationship to poles, 9-13; relationship to stability, 5-23, 6-10, 6-11
+eigenvectors		, 5-12, 5-36, 6-12; relationship to mode shape, 6-13
+electric car		, 14-22
+electric power		, see power systems (electric)
+electrical circuits		, see also operational amplifier, 3-7, 3-24, 4-10, 6-1, 9-6
+electrical engineering		, 1-6–1-7, 3-4–3-5, 6-25, 10-9
+elephant		, modeling of an, 3-1
+Elowitz		, M. B., 3-39
+encirclement		, see also Nyquist criterion, 10-5
+environmental science		, 1-3, 1-8
+equation-based modeling		, 3-7
+equilibrium points		, 4-26, 5-6, 5-11, 6-2, 6-29, 7-2; bifurcations of, 5-28; discrete time, 3-41; for closed loop system, 7-11, 7-30; for planar systems, 5-10; region of attraction, 5-26–5-28, 5-34; stability, 5-8
+equipment protection		, 14-17
+error feedback		, 2-14, 11-1, 11-2, 11-20, 12-3
+estimators		, see observers
+Euler integration		, 3-21, 3-22
+exponential functions; simplified notation		, 9-5
+exponential growth		, 2-19; boom-bust, 2-19; stampede, 2-19
+exponential input		, 2-2, 9-3
+exponential signal		, 9-4
+exponential signals		, 9-2–9-9, 9-13, 9-24
+exponential signals E 		, 9-5
+extended Kalman filter		, 8-23
+extremal control		, 14-15
+extremum seeking		, 14-18
+FACE		, 14-35
+FACE Future Airborn Capability		, 14-33
+Falb		, P. L., 7-1
+Feedback		, 2-1
+feedback		, 1-1–1-4; as technology enabler, 1-3; business, 1-4; combining with
+feedforward		, 2-24; drawbacks of, 1-3, 1-17, 11-20, 13-6, 13-13; economy, 1-4; generation of discrete behavior, 2-23; in biological systems, see also biological circuits, 1-1–1-3, 1-12, 1-27, 11-5; in engineered systems, see control; in financial systems, 1-4; in nature, 1-3, 1-11–1-13, 4-25; positive, see positive feedback; properties, 1-3, 1-6, 1-13–1-17, 12-1, 12-8, 13-1; robustness through, 1-13; versus feedforward, 1-4, 11-4, 12-6
+feedback amplifier		, 1-7
+feedback and feedforward		, 2-23
+feedback connection		, 2-7, 9-19, 10-21
+feedback controller		, 9-20, 12-1
+feedback linearization		, 6-32–6-33
+feedback loop		, 1-5, 10-1, 12-1, 13-12
+feedback uncertainty		, 13-3, 13-10
+feedback:positive		, 2-18
+feedforward		, 1-4, 8-22, 8-23, 9-20, 12-1, 12-5; antiwindup, 11-16; attenuation of measured; disturbances, 2-26; business, 1-4; combining with feedback, 2-24; design, 12-5; drawbacks, 2-24; economy, 1-4; pid, 11-16; properties, 12-8; sensitivity to process variations, 12-7; system inversion, 2-23
+Fermi		, E., 3-1
+filters; active		, 6-24
+for disturbance weighting		, 13-27; for measurement signals, 1-17, 8-26, 13-13; zz, see also band-pass filters; high-filters; low-pass filters
+financial systems		, see economic systems
+finite escape time		, 5-3
+finite state machine		, 1-21, 3-8, 4-5, 4-12
+first-order systems		, 6-4, 6-35, 9-10, 9-25, 9-27
+fisheries management		, 4-30
+flatness		, see differential flatness
+flight control		, 1-8, 1-15, 3-31, 6-33, 11-16; X-29 aircraft, 12-31; zz, see also vectored thrust aircraft
+flow		, of a vector field, 3-3, 5-5
+flow in a tank		, 5-33
+flow model (queuing systems)		, 3-33, 10-25, 11-25
+flyball governor		, see centrifugal governor
+flying home mode		, 14-14
+force feedback		, 1-8
+forced response		, 6-3, 9-3
+forced solution		, 6-3
+Forrester		, J. W., 1-11
+FOTD model		, 11-12
+Fourier		, J. B. J., 3-40, 9-33
+frequency domain		, 9-1–9-3, 10-1, 10-19, 12-1
+frequency response		, 2-4, 3-5, 3-23, 3-24, 6-22–6-27, 9-2, 10-24, 11-12, 12-12; relationship to Bode plot, 9-24; relationship to Nyquist plot, 10-4, 10-5; second-order systems, 7-20, 9-29; system identification using, 9-31
+fully actuated systems		, 9-14
+fundamental limits		, see control: fundamental limitations
+Furuta pendulum		, 5-36
+Future Airborn Capability; Environment (FACE)		, 14-33
+gain		, 1-19, 2-4, 3-23, 4-9, 6-23, 6-24, 7-21, 9-3, 9-6, 9-13, 9-24, 10-12, 10-19–10-22, 13-1; H∞ , 10-20, 13-26; observer, see observer gain of a system, 10-19; reference, 7-30; state feedback, 7-11, 7-15, 7-30, 7-32; steady-state, 9-13; zero frequency, see zero frequency gain; zz, see also integral gain
+gain crossover frequency		, 10-13, 12-12, 12-26, 13-19
+gain crossover frequency inequality		, 12-26, 12-28
+gain curve (Bode plot)		, 9-24–9-28, 10-16, 12-17
+gain margin		, 10-12–10-14; from Bode plot, 10-13; reasonable values, 10-14
+gain scheduling		, 8-22, 8-23, 13-28, 14-15
+gain-bandwidth product		, 4-10, 9-7, 13-15
+Gang of Four		, 12-3, 12-39, 13-12
+Gang of Seven		, 12-3, 12-12
+gene regulation		, 1-12, 3-38, 6-36, 9-29
+genetic switch		, 3-43, 5-21
+global behavior		, 5-10, 5-27–5-30
+Glover		, K., 12-38, 13-28
+glucose regulation		, see insulin-glucose dynamics
+Golomb		, S., 4-1
+governor		, see centrifugal governor
+H∞ control		, 13-25–13-28, 13-30
+haptics		, 2-29
+Harrier AV-8B aircraft		, 3-32
+heat propagation		, 9-9
+Heaviside		, O., 6-34
+Heaviside step function		, 6-20, 6-34
+Hellerstein		, J. L., 1-27, 4-17
+Hewlett Packard		, 2-19
+Hewlett’s oscillator		, 2-19
+hidden technology		, 14-33
+high-frequency roll-off		, 11-5, 12-17, 13-13, 13-21
+high-pass filter		, 9-29
+Hill function		, 3-38
+Hoagland		, M. B., 1-1
+Hodgkin-Huxley equations		, 3-39
+homeostasis		, 1-3, 3-38
+homogeneous equation		, 2-2
+homogeneous solution		, 6-3, 6-6
+Horowitz		, I. M., 8-27, 12-38, 13-23, 13-28
+human-machine interface		, 1-20, 4-1, 4-5
+hybrid system		, 3-8, 3-20, 14-9
+hysteresis		, 1-18, 10-23
+identification		, see system
+identification		
+IMC		, 14-19
+impedance		, 9-7, 11-21
+impedance control		, 2-29, 2-30
+implementation		, controllers, see analog implementation; computer
+implementation		
+impulse function		, 6-16, 6-34, 7-4
+impulse response		, 6-5, 6-16, 6-17, 9-12
+inductor		, transfer function for, 9-7
+inertia matrix		, 3-13, 6-33
+Inferential control		, 14-19
+infinity norm		, 10-20, 13-26
+information systems		, see also congestion control; web server control, 1-9, 3-33–3-37
+initial condition		, 5-2, 5-5, 5-8, 6-2, 6-6, 6-7, 6-14, 8-17
+initial condition response		, 6-3, 6-6–6-9, 6-12, 6-14, 6-17, 9-3
+initial value problem		, 5-2
+inner loop control		, 12-35, 12-37
+input sensitivity function		, see load sensitivity function
+input/output models		, see also frequency response; steady-state response; step response, 1-6, 3-4, 3-5, 6-2, 6-15–6-28, 9-1, 10-19; and transfer functions, 9-12; and uncertainty, 3-10, 13-3; from experiments, 9-31; relationship to state space models, 3-6, 5-1, 6-16; steady-state response, 6-19
+input/output stable		, 10-20
+inputs		, 3-3, 3-6
+insect flight control		, 3-25–3-26
+instrumentation		, 1-8, 4-7
+insulin-glucose dynamics		, 1-2, 4-24–4-25
+integral action		, 1-19, 1-20, 1-28, 2-20–2-21, 7-30–7-33, 11-1, 11-3–11-5, 11-7, 12-15; by positive feedback, 2-21; for bias compensation, 8-28; setpoint weighting, 11-20, 11-24; time constant, 11-2
+integral gain		, 1-19, 11-2, 11-4, 11-7
+integrator		, see also double integrator, 3-25, 6-9, 7-30, 7-31, 8-5, 9-10, 9-25, 10-16, 11-17
+integrator windup		, 1-19, 8-27, 11-15, 11-17, 11-26; conditional integration, 11-26
+intelligent machines		, see robotics
+internal model control		, 14-19
+internal model principle		, 8-13, 8-23
+internal stability		, 12-3
+Internet		, see also congestion control, 1-10, 4-11, 4-13, 4-16, 4-29
+Internet of Things (IoT)		, 14-36
+Internet Protocol (IP)		, 4-13
+invariant set		, 5-25, 5-28
+inverse		, 2-23
+inverse model		, 6-32, 12-6
+inverse response		, 10-18, 10-26, 12-9
+inverse system; approximate		, 12-10
+inverted pendulum		, see also balance systems, 3-14–3-15, 4-5, 5-6, 5-14, 5-25, 5-27, 5-35, 5-36, 10-10, 12-32
+Jacobian linearization		, 6-29–6-31
+Janert		, P. K., 1-27
+Jordan block		, 6-9
+Jordan form		, 6-9–6-12, 6-35, 7-22
+Kalman		, R. E., 7-1, 7-32, 8-1, 8-15, 8-27
+Kalman decomposition		, 8-14–8-17, 9-17, 9-34, 9-36
+Kalman filter		, 8-17–8-21, 8-27, 13-24, 13-25; extended, 8-23
+Kalman-Bucy filter		, 8-19
+Kelly		, F. P., 4-16
+Kepler		, J., 3-2
+Keynesian economic model		, 3-41, 6-36
+Krasovski-Lasalle principle		, 5-24–5-25
+LabVIEW		, 5-29, 6-34
+ladder diagrams		, LD, 14-34
+lag		, see phase lag
+lag compensation		, 12-17–12-19
+Laplace transform; computing transfer function with		, 9-11
+Laplace transforms		, xi, 9-10–9-12
+Laplacian matrix		, 3-37
+Lasalle’s invariance principle		, see Krasovski-Lasalle principle
+lead		, see phase lead
+lead compensation		, 12-18–12-21, 12-36, 12-41
+learn		, 14-24
+limit cycle		, 4-27, 5-7, 5-16, 5-17, 5-29, 10-22
+linear quadratic control		, 7-25–7-29, 8-18, 8-27, 13-24–13-25
+linear system		, 2-1
+linear systems		, 3-4, 3-11, 4-10, 5-11, 6-1–6-34, 8-14, 9-4, 9-33, 10-20
+linear temporal logic		, 14-10
+linear time-invariant systems		, 3-4, 3-11, 6-4
+linearity		, 6-3, 9-24
+linearization		, 5-15, 5-23, 6-2, 6-28–6-33, 8-23, 13-1
+Lipschitz continuity		, 5-4
+load disturbances		, see also disturbances, 12-1, 13-13
+load sensitivity function		, 12-3
+local behavior		, 5-9, 5-15, 5-24, 5-27, 6-29
+locally asymptotically stable		, 5-9
+logic and sequencing		, 14-34
+logistic growth model		, 4-25, 4-26, 4-30
+loop analysis		, 10-1, 12-1
+loop gain		, 10-12
+loop shaping		, 10-4, 12-16–12-21, 12-38, 13-23; design rules, 12-18; fundamental limitations, 12-25–12-34; zz, see also Bode’s loop transfer function
+loop transfer function		, see also Bode’s loop transfer function, 10-1–10-4, 10-12, 10-20, 12-1, 12-4, 12-16, 12-17, 12-19, 12-31, 12-38
+Lotus Notes server		, see e-mail; server
+low-order models		, 11-7
+low-pass filter		, 9-29, 11-20
+LQ control		, see linear quadratic control
+LTI systems		, see linear time-invariant systems, 2-2
+Lyapunov equation		, 5-20, 5-35
+Lyapunov functions		, 5-17, 5-18, 5-20, 5-21, 5-27, 5-34, 6-35; design of controllers using, 5-25, 5-31; existence of, 5-20
+Lyapunov stability analysis		, 3-23, 5-17–5-26, 5-33; discrete time, 5-35
+magnitude		, 2-4
+manifold		, 5-26
+margins		, see stability margins
+materials science		, 1-8
+Mathematica		, 3-21, 5-29, 6-34
+MATLAB		, 1-27, 3-21, 5-29, 6-34, 7-35; acker, 7-15, 8-11; dlqe, 8-18; dlqr, 7-29; hinfsyn, 13-26; jordan, 6-10; linmod, 6-30; lqr, 7-26; place, 7-15, 7-24, 8-11; trim, 6-30
+matrix exponential		, 6-6–6-9, 6-13, 6-15, 6-33, 6-34; coordinate transformations, 6-18; Jordan form, 6-10; second-order systems, 6-34
+maximum		, 14-17
+maximum complementary; sensitivity		, 13-8, 13-19
+maximum selector		, 1-22
+maximum sensitivity		, 12-14, 13-6, 13-20
+measured signals		, 3-6, 3-11, 5-1, 8-1, 8-14, 8-26, 12-2, 12-4, 13-25
+measurement noise		, 1-5, 1-17, 8-1, 8-3, 8-17, 8-19, 9-20, 11-20, 12-1–12-3, 12-17, 13-13; response to, 12-15–12-16, 13-13
+mechanical systems		, 3-6, 3-13, 3-22, 3-30, 3-40, 6-32
+mechanics		, 3-2–3-3, 3-5, 5-32, 6-1
+median selectors		, 14-17
+mid-range control		, 14-15, 14-16
+minimal model; (insulin-glucose)		, see also insulin-glucose dynamics, 4-24, 4-25
+minimum		, 14-17
+minimum phase		, 10-17, 10-24, 12-25
+minimum selector		, 1-22
+mixed integer solvers		, 14-11
+mixed logical dynamical		, 14-11
+model checking		, 14-13
+model following		, 14-15
+Modelica		, 3-7
+modeling		, 1-6, 3-1–3-10, 3-40, 4-1; control perspective, 3-5; discrete control, 3-35; discrete-time, 3-15, 6-27–6-28; frequency domain, 9-1–9-3; from experiments, 3-27–3-28; model reduction, 1-6; normalization and scaling, 3-28; of uncertainty, 3-9–3-10; simplified models, use of, 3-6, 11-7, 13-2, 13-8, 13-9; software for, 3-7, 6-30, 6-33; state space, 3-11–3-23; uncertainty, see uncertainty
+modes		, 6-12–6-14, 9-13; relationship to poles, 9-14
+monotone step responses		, 11-12
+motion control systems		, 3-30–3-33, 8-27
+motors		, electric, 3-44, 7-34, 8-29
+multi-input		, multi-output systems, see also input/output models, 10-20, 12-4, 12-18
+multiplicative uncertainty		, 13-3, 13-10
+nanopositioner (AFM)		, 10-15, 13-20
+natural frequency		, 7-19, 11-8
+negative definite function		, 5-18
+negative feedback		, 1-3, 1-14, 4-9, 7-10, 10-1, 11-6
+Nernst’s law		, 3-40
+networking		, see also congestion control, 1-9, 3-24, 4-16
+neural systems		, 1-8, 3-26, 3-39, 11-6
+neutral stability		, 5-8–5-10
+Newton		, I., 3-2
+Nichols		, N. B., 6-33, 11-10, 11-11, 12-38
+Nichols chart		, 13-24
+Nobel Prize		, 1-8, 3-40, 4-17
+noise		, see disturbances; measurement noise
+noise attenuation		, 9-30, 12-15–12-16
+noise cancellation		, 5-31
+noise sensitivity function		, 12-3
+nonlinear systems		, 3-6, 5-1, 5-4, 5-7, 5-15, 5-17, 5-21, 5-27–5-32, 8-2, 8-22, 8-23, 10-20, 10-21; linear approximation, 5-15, 5-23, 6-29, 6-36, 13-1; system identification, 3-42
+nonminimum phase		, see also inverse response, 10-16, 10-17, 10-26, 12-25–12-27
+nonunique solutions (ODEs)		, 5-3
+normalized coordinates		, 3-28–3-30, 3-42, 6-31
+norms		, 10-19–10-20
+Nyquist		, 1-7
+Nyquist		, H., 10-1, 10-23
+Nyquist criterion		, 10-5, 10-7, 10-9, 10-12, 10-20, 10-21, 11-11; for robust stability, 13-6, 13-31
+Nyquist D contour		, 10-4, 10-10
+Nyquist plot		, 10-4–10-5, 10-12, 10-13, 11-11, 12-14, 13-24
+observability		, 3-6, 8-1–8-2, 8-14, 8-27; rank condition, 8-3; tests for, 8-2–8-3; unobservable systems, 8-4, 8-14–8-16, 9-36
+observability matrix		, 8-3, 8-5
+observable canonical form		, 8-4, 8-5, 8-27
+observer gain		, 8-7, 8-9–8-11, 8-13, 8-18, 8-19
+observers		, 8-1, 8-6–8-9, 8-19, 8-23; block diagram, 8-2, 8-10; zz, see also Kalman filter
+ODEs		, see differential equations
+Ohm’s law		, 3-40, 4-9, 9-6
+on-off control		, 1-18
+open loop		, 1-1, 4-9, 7-2, 9-22, 10-1, 11-15, 12-1, 12-13, 13-3
+open loop gain		, 9-7, 12-12
+operational amplifiers		, 4-7–4-11, 9-7, 11-21, 13-10; circuits, 4-28, 6-24, 10-2, 13-14; dynamic model, 4-10, 9-7; input/output characteristics, 4-8; oscillator using, 4-28, 5-35; static model, 4-8, 9-7
+optimal control		, 7-25, 8-17, 8-19, 13-25
+order		, of a model, 3-11, 3-12
+ordinary differential equations		, see differential equations
+oscillator dynamics		, 4-28, 5-2, 5-3, 6-7, 6-8, 7-18, 9-5, 9-10; normal form, 3-42; zz, see also nanopositioner (AFM); spring-mass system
+outer loop control		, 12-35–12-37
+output feedback		, see also control: using estimated state; loop shaping; PID control, 8-11, 8-12, 8-27
+output sensitivity function		, see noise sensitivity function
+outputs		, see measured signals
+overdamped oscillator		, 7-18
+overshoot		, 6-21, 7-10, 7-20, 12-12
+P control		, 2-8, 2-9
+Padé approximation		, 10-26, 12-27
+paging control (computing)		, 3-35
+pairing problem		, 14-21
+parallel connection		, 2-7, 9-19
+parallel systems		, 14-22–14-23
+parametric stability diagram		, 5-28–5-30
+parametric uncertainty		, 3-9, 13-1
+particular solution		, see also forced response, 2-2, 6-3, 6-22, 9-5; transfer function, 2-2
+passive systems		, 10-21, 12-30
+passivity theorem		, 10-21
+patch clamp		, 1-8
+PD control		, 2-29, 11-4, 12-18, 12-19
+peak frequency		, 6-26, 12-12
+pendulum dynamics		, see also inverted pendulum, 5-19
+perfect adaptation		, 11-6
+perfect control		, 14-21
+performance		, 4-12
+performance limitations		, 12-25, 12-30, 13-20, 13-27; due to right half-plane poles and zeros, 10-17; zz, see also control: fundamental limitations
+performance specifications		, see also overshoot; maximum sensitivity; resonant peak; rise time; settling time, 6-21, 7-10, 12-1, 12-12–12-16, 12-18, 13-12
+periodic solutions		, see differential equations; limit cycles
+persistant excitation		, 14-26
+persistence		, of a web connection, 4-12, 4-13
+Petri net		, 3-24
+pharmacokinetics		, see also drug administration, 4-21, 4-25
+phase		, see also minimum phase; nonminimum phase, 2-4, 3-23, 6-23, 6-24, 7-21, 9-3, 9-6, 9-24, 10-22; minimum vs. nonminimum, 10-16
+phase crossover frequency		, 10-13
+phase curve (Bode plot)		, 9-24–9-26, 9-28; relationship to gain curve, 10-16, 12-17
+phase lag		, 6-23, 6-24, 9-29, 10-17, 12-26, 12-28
+phase lead		, 6-23, 9-29, 12-21, 12-41
+phase margin		, 10-13, 10-14, 12-17, 12-19, 12-26, 12-41, 13-29; from Bode plot, 10-13; reasonable values, 10-14
+phase portrait		, 3-3, 5-4–5-6, 5-27
+Philbrick		, G. A., 4-11
+photoreceptors		, 11-6
+physics		, relationship to; control, 1-6
+PI control		, 1-13, 1-19, 2-9, 2-10, 2-20, 4-1, 4-4, 11-4, 11-10, 12-18, 12-19; first-order system, 11-8, 13-18
+PID control		, 1-18–1-19, 11-1–11-24, 12-21; block diagram, 11-2, 11-4, 11-17; computer implementation, 11-22; feedforward signal, 11-16; ideal form, 11-1, 11-24; implementation, 11-4, 11-19–11-24;,in biological systems, 11-5; op amp implementation, 11-21–11-22; tuning, 11-10–11-15; zz, see also derivative action; integral action
+pitchfork bifurcation		, 5-37
+planar dynamical systems		, see also second-order systems, 5-5, 5-10
+pole and zeros		, 9-13–9-16
+pole excess		, 12-22
+pole placement		, see also eigenvalue assignment, 7-11, 13-15, 13-19–13-20; robust, 13-15
+pole zero diagram		, 9-14
+pole/zero cancellations		, 9-16–9-18, 9-36, 12-4, 13-20
+poles		, 2-4, 9-13, 9-14; dominant, see also dominant; eigenvalues (poles), 11-10; fast stable, 13-18, 13-20; pure imaginary, 10-5, 10-10; relationship to eigenvalues, 9-13; right half-plane, 9-14, 10-10, 10-17, 12-25, 12-27–12-30, 12-41, 13-20
+poles and zeros		, 9-13
+population dynamics		, see also predator-prey system, 4-25–4-27, 4-30
+positive definite function		, 5-18, 5-20, 5-24
+positive definite matrix		, 5-20, 7-25
+Positive feedback		, 1-3
+positive feedback		, 1-3, 1-17, 2-18, 2-20, 5-36, 11-4
+positive real (transfer function)		, 12-30
+power of a matrix		, 6-6
+power systems		, electric, 1-6–1-7, 3-43, 5-7, 5-34
+predator-prey system		, 3-15, 4-26–4-27, 5-28, 7-15
+prediction		, in controllers, see also derivative action, 1-19, 8-23, 11-5, 13-29
+prediction time		, 11-5
+principle of the argument		, see variation of the argument, principle of
+process control		, 1-8, 3-24
+program synthesis		, 14-13
+Programmable Logic Controller (PLC)		, 14-34–14-35
+proportional (P) control		, 2-8
+proportional control		, see also PID control, 1-18, 1-19, 2-8, 11-1
+proportional		, integral, derivative control, see PID control
+proportional-derivative (PD) controller		, 2-29
+Proportional-Integral Control		, 2-10
+protocol		, see congestion control; consensus
+pulse signal		, see also impulse function, 6-16, 6-17, 7-22
+pupil response		, 9-32, 11-5
+pure exponential solution		, 9-5
+Q-value		, 3-42, 7-20, 9-27
+quantitative feedback theory (QFT)		, 13-23–13-24
+quarter car model		, 9-37
+queuing systems		, 3-33–3-35, 3-43
+random process		, 3-33, 8-17, 8-18, 8-29
+reachability		, 3-6, 7-1–7-9, 7-32, 8-14; rank condition, 7-4; tests for, 7-3; unreachable systems, 7-5, 7-34, 8-14–8-16, 9-36
+reachability matrix		, 7-3, 7-8
+reachable canonical form		, 3-12, 7-6–7-9, 7-13, 7-14, 7-33
+reachable set		, 7-1
+real-time systems		, 1-6
+reason		, 14-24
+receding horizon control		, 14-7
+reference signal		, see also command signals; setpoint, 1-18, 7-10, 9-1, 9-20, 11-1, 11-20, 12-3; effect on observer error, 8-12, 8-16, 8-22; response to, 12-12, 12-13, 12-39
+tracking		, 7-10, 8-21, 8-22, 12-17, 13-14
+reference weighting		, see setpoint weighting
+region of attraction		, see equilibrium points: regions of attraction
+regulation problem		, 2-8
+regulator		, see control law
+relative gain array		, 14-21–14-22
+relay feedback		, 10-23, 11-14
+Reno (protocol)		, see Internet; congestion control
+repetitive control		, 14-15
+repressilator		, 3-39
+repressor		, 1-12, 3-39, 3-43, 5-21, 6-36, 9-30
+requirements		, 14-2
+reset logic		, 3-8
+reset		, in PID control, 11-3, 11-4
+resonant frequency		, 7-20, 10-20
+resonant peak		, 6-26, 7-20, 12-12, 13-9
+resource usage		, in computing systems, 3-34, 3-36, 4-11, 4-12
+response		, see input/output models
+retina		, see also pupil response, 11-6
+Riccati equation		, 7-26, 8-19, 13-26, 13-28
+Riemann sphere		, 13-5
+right half plane zero		, 12-9
+right half-plane poles and zeros		, see poles: right half-plane; zeros: right half-plane
+rise time		, 6-21, 7-10, 7-20, 12-12
+robotics		, 1-8–1-9, 6-33
+robustness		, 1-12–1-14, 11-5, 12-12, 13-3, 13-28; performance, 13-12–13-15, 13-23–13-28; stability, 13-6–13-12; using gain and phase margin, 10-14, 12-17; using maximum sensitivity, 12-14, 12-17, 13-7, 13-29, 13-31; using pole placement, 13-15–13-23; via gain and phase margin, 10-14; zz, see also uncertainty
+roll-off		, see high-frequency roll-off
+root locus		, 12-21; asymptotes, 12-40; initial direction, 12-40; real line segment, 12-40
+root locus diagram		, 5-29, 5-30
+root locus method		, 12-21
+Routh-Hurwitz stability criterion		, 2-5–2-6
+rush-hour effect		, 3-35, 3-43
+saddle (equilibrium point)		, 5-10
+safety		, 14-17
+sampling		, 6-27, 8-25, 8-26, 11-23
+saturation function		, see also actuators: saturation, 3-25, 4-8, 11-23
+scaling		, see normalized; coordinates
+scanning tunneling microscope		, 4-17
+schematic diagrams		, 3-23, 3-24, 4-7
+Schitter		, G., 4-20
+second-order systems		, 3-2, 6-34, 7-18–7-21, 7-35, 9-26, 9-27, 11-10
+Segway Personal Transporter		, 3-13, 7-4
+selector		, 1-22
+selector control		, 14-15, 14-17; of air-fuel, 1-22
+selector		, maximum, 1-22
+selector		,minimum, 1-22
+self-activation		, 5-36
+self-optimization		, 14-18
+self-repression		, 6-36, 9-29
+semidefinite function		, 5-18
+sensitivity; to modeling errors		, 2-24, 2-25; 
+sensitivity crossover frequency		, 12-14; sensitivity function, 2-25, 12-3, 12-14, 12-15, 12-17, 12-30, 13-6, 13-14, 13-20; and disturbance attenuation, 12-14, 12-30, 12-39
+sensor matrix		, 3-11, 3-15
+sensor networks		, 3-36
+sensors		, 1-5, 8-2, 8-25, 10-17, 11-22, 12-1, 12-4, 12-27, 12-28, 13-25; effect on zeros, 10-17, 12-29; in computing systems, 4-11; zz, see also measured
+signals		
+separation principle		, 8-13
+series connection		, 2-7, 9-19
+service rate (queuing systems)		, 3-33
+servo problem		, 2-12
+setpoint		, 11-1
+setpoint weighting		, 11-20–11-21, 11-24
+settling time		, 6-21, 6-35, 7-10, 7-20, 12-12
+similarity of two systems		, 13-3–13-6
+simplified notation exponential functions		, 9-5
+simulation		, 3-10, 3-20–3-21
+SIMULINK		, 6-30
+simultaneous positioning and mapping (SLAM)		, 14-28
+single-input		, single-output (SISO) systems, 5-1, 6-2, 6-3, 6-29, 8-4, 10-20
+singular values		, 10-19, 10-20, 13-30
+sink (equilibrium point)		, 5-10
+SLAM		, 14-28
+small gain theorem		, 10-20–10-21, 13-9
+Smith predictor		, 13-29, 14-20
+software tools for control		, x
+solution (ODE)		, see differential equations: solutions
+source (equilibrium point)		, 5-10
+spectrum analyzer		, 9-31
+Sperry autopilot		, 1-15
+spring-mass system		, 3-2, 3-20, 3-21, 3-23, 4-18, 5-34; coupled, 6-14, 6-18; generalized, 3-13, 4-7; identification, 3-27; normalization, 3-28, 3-42; zz, see also oscillator; dynamics
+stability		, 1-5, 1-6, 1-14, 1-15, 2-5, 3-21, 5-4, 5-8–5-26; asymptotic stability, 5-8, 5-13; conditional, 10-9; in the sense of Lyapunov, 5-8; local versus global, 5-9, 5-16, 5-27; Lyapunov analysis, see Lyapunov stability; analysis; neutrally stable, 5-8, 5-10; of a system, 5-11; of equilibrium points, 3-22, 5-8, 5-10, 5-17, 5-18, 5-23; of feedback loop, see Nyquist criterion; of limit cycles, 5-16; of linear systems, 5-11–5-14, 5-20, 6-10; of solutions, 5-8, 5-9, 5-17; of transfer functions, 9-14; robust, see robust stability; unstable solutions, 5-9; using eigenvalues, 5-23, 6-10, 6-11; using linear approximation, 5-14, 5-23, 6-30; using state feedback, 7-9–7-29; zz, see also bifurcations; equilibrium points
+stability diagram		, see parametric stability diagram
+stability margin (quantity)		, 10-13, 10-14, 12-14, 12-41, 13-7, 13-26; reasonable values, 10-14
+stability margins (concept)		, 10-12–10-16, 10-25, 12-17
+stable		, 2-5
+stable pole		, 9-14
+stable zero		, 9-14
+Stark		, L., 9-32
+state		, of a dynamical system, 3-2, 3-6, 3-11
+state estimators		, see observers
+state feedback		, see also eigenvalue assignment; linear quadratic control, 7-1–7-32, 8-7, 8-12, 8-21–8-23, 8-25–8-27, 13-16, 13-25, 14-15
+state space		, 3-2, 3-11–3-23, 7-9
+state vector		, 3-2, 3-11
+static gain		, 2-4
+steady state gain		, 2-4
+steady state solution		, 9-5
+steady-state gain		, see zero; frequency gain, 9-13
+steady-state response		, 1-28, 3-21, 6-19–6-27, 6-36, 7-11, 7-20, 9-2, 9-31, 9-33
+steam engines		, 1-2, 1-13
+steering		, see vehicle steering
+Stein		, G., xii, 12-1, 12-31
+step input		, 3-4, 6-5, 6-20, 9-13
+step response		, 2-2, 3-4, 3-5, 3-27, 3-28, 6-5, 6-17, 6-20, 6-21, 7-10, 7-19, 7-20, 11-11
+stochastic systems		, 8-17, 8-19
+summing junction		, 3-25
+superposition		, 3-4, 6-3, 6-17, 6-34, 9-2
+supervised learning		, 14-27
+supervisory control		, see decision making: higher levels of
+supply chains		, 1-11
+supremum (sup)		, 10-20
+switching behavior		, 1-3, 3-43, 5-23, 5-24, 13-28
+system identification		, 3-27, 3-28, 3-42, 9-31
+system inversion		, 2-23, 12-10; approximate, 12-10
+system response		, 2-4
+tapping mode		, see atomic force microscope
+TCP/IP		, see Internet; congestion control
+temporal logic		, 14-10
+Teorell		, T., 4-21, 4-25
+the relative gain array		, 14-22
+three-term controllers		, see also PID control, 11-2
+thrust vectored aircraft		, see vectored thrust aircraft
+time constant		, 2-2
+time constant		, first-order system, 6-35
+time delay		, 1-10, 9-9, 9-10, 10-15, 10-17, 11-11, 11-12, 11-22, 12-27, 12-28; compensation for, 13-29, 13-30; Padé approximation, 10-26, 12-27
+time invariant		, 2-1
+time plot		, 3-3
+time-invariant systems		, 3-4, 3-11, 5-33, 6-4–6-5
+tracking		, see reference signal: tracking
+tracking mode		, 11-18
+trail (bicycle dynamics)		, 4-6, 4-7
+transcription factors		, 3-38
+transcriptional regulation		, see gene regulation
+transfer function		, 2-3
+transfer functions		, 9-1–9-33; common systems, 9-10; derivation using exponential signals, 9-4; for control systems, 9-20, 9-36; for electrical circuits, 9-6; for time delay, 9-9; frequency response, 9-2, 9-24; from experiments, 9-31; impulse response, 9-12; irrational, 9-9; Laplace
+transforms		, 9-11; linear input/output systems, 9-4, 9-10, 9-36; looptracing, 9-21; simplified notation, 9-5; state space; model, 9-11
+transient response		, 3-21, 6-20, 6-21, 6-23, 7-2, 7-23
+Transmission Control Protocol (TCP)		, 4-13
+transmission zero		, 2-4
+Tsien		, H. S., 1-9
+tuning rules		, see Ziegler-Nichols tuning, 11-26
+Tustin		, A., 2-1
+two degree-of-freedom control		, 8-22, 11-2, 12-5, 12-38, 12-39
+two degrees of freedom		, 2-14, 2-25
+two degrees of freedom		, 2 DOF, 2-24
+two-out-of-three selectors		, 14-17
+uncertainty		, 1-5, 1-13–1-14, 3-6, 3-9–3-10, 7-30, 13-1–13-6; component or parameter variation, 1-5, 3-9, 13-1; disturbances and noise, 1-5, 3-6, 7-10, 9-20, 12-1; unmodeled dynamics, 1-5, 3-9, 13-2, 13-8; zz, see also additive
+uncertainty; feedback uncertainty; multiplicative uncertainty		
+uncertainty band		, 3-9
+uncertainty lemon		, 3-9, 4-4, 4-10, 4-20
+undamped natural frequency		, 2-11
+underdamped oscillator		, 5-3, 7-19, 7-20
+unit step		, 6-20
+unmodeled dynamics		, see uncertainty: unmodeled dynamics, 2-11; effect for control, 2-12
+unstable pole		, see poles: right half-plane
+unstable pole/zero; cancellation		, 9-17
+unstable solution		, for a dynamical system, 5-9, 5-10, 5-13, 6-10, 9-14
+unstable zero		, see zeros: right half-plane
+unsupervised learning		, 14-27
+variation of the argument		, principle of, 10-11, 10-24
+vector field		, 3-3, 5-5
+vectored thrust aircraft		, 3-32–3-33, 6-11, 7-26, 8-20, 9-36, 12-20, 12-35
+vehicle steering		, 3-30–3-32, 6-30, 7-11, 8-9, 8-13, 8-23, 9-22, 10-18, 10-25, 12-6, 13-16; ship dynamics, 3-30
+vehicle suspension		, see also coupled spring-mass system, 9-37
+vertical contract		, 14-11
+vertical takeoff and landing		, see vectored thrust aircraft
+vibration absorber		, 9-38
+Vinnicombe		, G., 12-38, 13-5, 13-28
+Vinnicombe metric		, 13-3–13-6
+voltage clamp		, 1-8, 1-9, 3-40
+waterbed effect		, 12-30, 12-31
+Watt governor		, see centrifugal governor
+Watt steam engine		, 1-3, 1-13
+web server control		, 4-11–4-13, 7-27
+web site		, companion, x
+Whipple		, F. J. W., 4-7
+Wiener		, N., 1-9
+winding number		, 10-11
+window size (TCP)		, 4-14, 4-16, 5-10
+windup		, see integrator windup; cascade control, 14-16; selector control, 14-17
+Wright		, W., 1-15
+Wright Flyer		, 1-7, 1-15
+X-29 aircraft		, 12-31
+Youla parameterization		, 13-10–13-12
+zero; blocking property		, 2-4
+zero frequency gain		, 2-4, 6-25, 7-11, 7-14, 7-20, 9-13, 11-12
+zeros		, 2-4, 9-13; Bode plot for, 9-36; effect of sensors and actuators on, 10-17, 10-18, 12-29; for a state space system, 9-14; right half-plane, 9-14, 10-17, 12-25–12-29, 12-31, 12-41, 13-19
+signal-blocking property		, 9-13
+slow stable		, 13-16, 13-17, 13-19
+Ziegler		, J. G., 11-10, 11-11, 11-24
+Ziegler-Nichols tuning		, 11-11–11-14, 11-24; frequency response, 11-11
+improved method		, 11-12
+step response		, 11-11
